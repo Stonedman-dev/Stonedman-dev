@@ -1,0 +1,11 @@
+# Create a new React application
+npx create-react-app my-app
+
+# Change into the app directory
+cd my-app
+
+# Install the UI kit with yarn
+yarn add @dolbyio/media-uikit-react
+
+# Start the dev server
+npm start
